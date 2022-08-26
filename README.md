@@ -1,32 +1,33 @@
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-# 🍵 Hope you hydrated today <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# 🍵 A Bit About Me :)
 
-I'm Mifye (more personally Micah), an aspiring musician and UI developer pursuing a degree in Music Technologies. I'm from the suburbs of Chicago but now reside in the Champaign-Urbana area :) Find more details about my 💻 work experience 💻  over on my [LinkedIn][3], or stay up to date with my 🎵 music 🎵 on my [Instagram][1]!
+I'm Mifye (he/him) but more personally Micah, an aspiring musician and UI developer pursuing a degree in Music Technologies. I'm from the suburbs of Chicago but now reside in the Champaign-Urbana area :) Find more details about my 💻 work experience 💻  over on my [LinkedIn][3], or stay up to date with my 🎵 music 🎵 on my [Instagram][1]!
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=vs-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
+## &#x270d; Writing & Production
 
-Aside from coding, I also songwrite and produce! My artist landing page is a work in progress, so in the meantime visit my [Spotify](https://open.spotify.com/artist/0Y8RoO5vV2NVgHd2ZCHhS2?si=K8dNxSgGQdKaZgF0gyAThw) or stay up to date with my progress as an artist via my [Instagram](https://www.instagram.com/mifye_)
+Aside from coding, I also songwrite and produce! My personal landing page is a work in progress, so in the meantime visit my [Spotify](https://open.spotify.com/artist/0Y8RoO5vV2NVgHd2ZCHhS2?si=K8dNxSgGQdKaZgF0gyAThw) or stay up to date with my progress as an artist via my [Instagram](https://www.instagram.com/mifye_). I'm always looking to collaborate and learn from others in the industry to feel free to shoot me a dm!
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
-
+<!-- Spotify embed -->
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/artist/0Y8RoO5vV2NVgHd2ZCHhS2?si=K8dNxSgGQdKaZgF0gyAThw)
+[embed]https://open.spotify.com/artist/0Y8RoO5vV2NVgHd2ZCHhS2?si=K8dNxSgGQdKaZgF0gyAThw[/embed]
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
@@ -56,6 +57,13 @@ A sample of my recent articles:
   </a>    
 -->
 
+## What's The Best Way to Reach You?
+... you may ask. Good question! There are a couple of different ways to contact me depending on your motivations, so I'll list them below:
+* Development: mifyedev@gmail.com
+* Music: mifyemus@gmail.com ----- (or DM me on [Instagram][1])
+* Education: mcasey22@illinois.edu
+
+
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
@@ -84,19 +92,3 @@ A sample of my recent articles:
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-
-<!--
-**mifye/mifye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
