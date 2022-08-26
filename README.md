@@ -3,7 +3,7 @@
 
 # 🍵 A Bit About Me :)
 
-I'm Mifye (he/him) but more personally Micah, an aspiring UI developer pursuing a degree in Music Technologies and eventually an MA in CS. I'm from the suburbs of Chicago but now reside in the Champaign-Urbana area :) I've only just started to utilize github to it's fullest, so bare with me as my repository grows from here! More details about my 💻 work experience 💻 can be found over on my [LinkedIn][3].
+I'm Mifye (he/him) but more personally Micah, an aspiring UI developer pursuing a degree in Music Technologies and eventually an MA in CS. I'm from the suburbs of Chicago but now reside in the Champaign-Urbana area :) I've only just started to utilize github to it's fullest, so bear with me as my repository grows from here! More details about my 💻 work experience 💻 can be found over on my [LinkedIn][3].
 
 
 ## 🔧 Technological Repertoire
