@@ -3,10 +3,10 @@
 
 # 🍵 A Bit About Me :)
 
-I'm Mifye (he/him) but more personally Micah, an aspiring musician and UI developer pursuing a degree in Music Technologies. I'm from the suburbs of Chicago but now reside in the Champaign-Urbana area :) Find more details about my 💻 work experience 💻  over on my [LinkedIn][3], or stay up to date with my 🎵 music 🎵 on my [Instagram][1]!
+I'm Mifye (he/him) but more personally Micah, an aspiring UI developer pursuing a degree in Music Technologies and eventually an MA in CS. I'm from the suburbs of Chicago but now reside in the Champaign-Urbana area :) I've only just started to utilize github to it's fullest, so bare with me as my repository grows from here! More details about my 💻 work experience 💻 can be found over on my [LinkedIn][3].
 
 
-## 🔧 Technologies & Tools
+## 🔧 Technological Repertoire
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=vs-code&logoColor=white&color=2bbc8a)
@@ -23,19 +23,11 @@ I'm Mifye (he/him) but more personally Micah, an aspiring musician and UI develo
 
 ## &#x270d; Writing & Production
 
-Aside from coding, I also songwrite and produce! My personal landing page is a work in progress, so in the meantime visit my [Spotify](https://open.spotify.com/artist/0Y8RoO5vV2NVgHd2ZCHhS2?si=K8dNxSgGQdKaZgF0gyAThw) or stay up to date with my progress as an artist via my [Instagram](https://www.instagram.com/mifye_). I'm always looking to collaborate and learn from others in the industry to feel free to shoot me a dm!
+Aside from coding, I also songwrite and produce! My personal landing page is a work in progress, so in the meantime visit my [Spotify](https://open.spotify.com/artist/0Y8RoO5vV2NVgHd2ZCHhS2?si=K8dNxSgGQdKaZgF0gyAThw) or stay up to date with my progress as an artist via my [Instagram](https://www.instagram.com/mifye_). I'm always looking to collaborate and learn from others in the industry to feel free [contact me](https://github.com/mifye/mifye/edit/main/README.md#whats-the-best-way-to-reach-you)!
 
+Music I listen to (and you should too):
 <!-- Spotify embed -->
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/artist/0Y8RoO5vV2NVgHd2ZCHhS2?si=K8dNxSgGQdKaZgF0gyAThw)
-[embed]https://open.spotify.com/artist/0Y8RoO5vV2NVgHd2ZCHhS2?si=K8dNxSgGQdKaZgF0gyAThw[/embed]
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [You Should Be Using Python&#39;s Walrus Operator - Here&#39;s Why](https://martinheinz.dev/blog/79)
-- [Recipes and Tricks for Effective Structural Pattern Matching in Python](https://martinheinz.dev/blog/78)
-- [It&#39;s Time to Say Goodbye to These Python Libraries](https://martinheinz.dev/blog/77)
-- [Advanced Features of Kubernetes&#39; Horizontal Pod Autoscaler](https://martinheinz.dev/blog/76)
-<!-- BLOG-POST-LIST:END -->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=micahj50)
 
 ## &#x1f4c8; GitHub Stats
 
